@@ -1,5 +1,5 @@
 import os
-from Key import SECRET_KEY
+from blog.Key import SECRET_KEY
 class Config():
     SECRET_KEY = SECRET_KEY
     SQLALCHEMY_DATABASE_URI = 'sqlite:///site.db'
