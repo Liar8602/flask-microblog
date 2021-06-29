@@ -2,6 +2,6 @@
 It's my little microblog. If you want to see it. 
 
 How to run:
-webApp\Scripts\activate
-cd .\Flask_Blog\
-python blog.py
+1) webApp\Scripts\activate
+2) cd .\Flask_Blog\
+3) python blog.py
